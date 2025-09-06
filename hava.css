@@ -56,7 +56,7 @@ body {
     z-index: -1;
     border-radius: 10px;
   }
-  @media (max-width: 600px) {
+  @media (max-width: 568px) {
     .weather-box {
       width: 90%;
       padding: 20px;
